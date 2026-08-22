@@ -1,0 +1,5 @@
+Online Retail.xlsx
+*.Rhistory
+*.RData
+*.Ruserdata
+.ipynb_checkpoints/
